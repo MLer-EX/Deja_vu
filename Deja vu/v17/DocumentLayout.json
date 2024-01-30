@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\trains python for will be expert\\Deja vu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D6F68F-8FA5-4369-8C05-A79A37AE9544}|Deja vu.pyproj|F:\\trains python for will be expert\\Deja vu\\Deja_vu.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{33D6F68F-8FA5-4369-8C05-A79A37AE9544}|Deja vu.pyproj|solutionrelative:Deja_vu.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deja_vu.py",
+              "DocumentMoniker": "F:\\trains python for will be expert\\Deja vu\\Deja_vu.py",
+              "RelativeDocumentMoniker": "Deja_vu.py",
+              "ToolTip": "F:\\trains python for will be expert\\Deja vu\\Deja_vu.py",
+              "RelativeToolTip": "Deja_vu.py",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-01-29T17:33:38.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
